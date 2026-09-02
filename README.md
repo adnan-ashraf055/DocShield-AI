@@ -76,4 +76,4 @@ Uses **OpenCV** and a Haar Cascade classifier to detect whether a face is presen
 The system reports:
 
 ```text
-Face Detected with confidence rate
+Face Detected with confidence rate in percentage.
